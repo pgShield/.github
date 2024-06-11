@@ -24,6 +24,8 @@ pgShield is a Rust-based PostgreSQL load balancer with caching and broker capabi
 
 ## Getting Started 🚀
 
+For detailed instructions on getting started, please refer to the [Getting Started Guide](GETTING_STARTED.md).
+
 ### Prerequisites ✅
 
 Before you begin, ensure you have the following:
@@ -124,7 +126,7 @@ For more details, please see our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License 📜
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Contact 📞
 
@@ -134,3 +136,4 @@ For any inquiries, please contact:
 - LinkedIn: [Indrit Z](https://www.linkedin.com/in/indrit-z-3b6b8ba6/) 🔗
 
 Follow the project on our [website](https://pgshield.github.io) for the latest updates and instructions for building, installing, configuring, and using pgShield to optimize your PostgreSQL infrastructures.
+
